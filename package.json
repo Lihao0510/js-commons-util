@@ -1,0 +1,16 @@
+{
+  "name": "yiautos-js-util",
+  "version": "1.0.0",
+  "description": "js commons utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "util",
+    "common",
+    "lib"
+  ],
+  "author": "Lihao",
+  "license": "MIT"
+}
